@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Bad Hypothesis Contest
 
-You can use the [editor on GitHub](https://github.com/ElisevanderPol/badhypothesiscontest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This ICLR 2021 social will be organised in the format of a contest. Each participant will prepare/improvise a 5 minutes stand-up, where they present a bad hypothesis (that is clearly ridiculous and untrue) and provide “evidence” (spurious correlations) that supports this hypothesis. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For instance, the hypothesis could be “The generator and discriminator are tired of being adversarial and just want to be friends” and the supporting evidence could be “GAN collapse”. We will provide a list of hypotheses for the contestants to choose from to encourage participation, however everyone is welcomed to propose their own bad hypothesis. The organisers will be judges to the event, and we will select the winner and give out prizes based on vote among all participants.
 
-### Markdown
+Our format is inspired by [BAHfest](https://www.youtube.com/channel/UC9v7v79mAlvKCrjrJvj-Fww)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Examples
+* Generators and discriminators are tired of being adversarial and just want to be friends
+  * Evidence: GAN collapse 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElisevanderPol/badhypothesiscontest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Participate
+If you want to participate, we'd love to have you present your bad hypothesis! You can either present one of the example hypotheses, or even better, come up with your own.
+Just fill out [this Google form]() and we'll select a few for presentation at the social.
