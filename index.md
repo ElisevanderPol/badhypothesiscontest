@@ -13,4 +13,4 @@ Our format is inspired by [BAHfest](https://www.youtube.com/channel/UC9v7v79mAlv
 
 ### Participate
 If you want to participate, we'd love to have you present your bad hypothesis! You can either present one of the example hypotheses, or even better, come up with your own.
-Just fill out [this Google form]() and we'll select a few for presentation at the social.
+Just fill out [this Google form](https://docs.google.com/forms/d/14SDaYf-RpLpaDHPIgELCYekV37rX0x-XGpviSucfdbA/viewform?edit_requested=true) and we'll select a few for presentation at the social.
