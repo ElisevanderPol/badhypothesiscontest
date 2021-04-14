@@ -5,6 +5,11 @@ We will provide a list of hypotheses for the contestants to choose from to encou
 
 Our format is inspired by [BAHfest](https://www.youtube.com/channel/UC9v7v79mAlvKCrjrJvj-Fww).
 
+
+### Participate
+We'd love to have you present your bad hypothesis! You can either present one of the example hypotheses, or even better, come up with your own.
+Just fill out [this Google form](https://docs.google.com/forms/d/14SDaYf-RpLpaDHPIgELCYekV37rX0x-XGpviSucfdbA/viewform?edit_requested=true) --- we can only select 10 hypotheses to be presented at our social due to time constraint, but everyone is welcomed to participate the social!
+
 ### Examples
 * Neural networks are bad at generalisation because they already achieved consciousness and are trying to destroy humanity's technological advance
 * Generators and discriminators are tired of being adversarial and just want to be friends
@@ -21,8 +26,3 @@ Non-machine learning hypotheses are also welcomed! For instance:
 
 ### The contest & Prize
 This social is organised by Elise van der Pol, Karen Ullrich and Yuge (Jimmy) Shi. They will be judges to the contest and offer their completely fair and unbiased opinions based on the scientific facts your present. Once all presentations are finished, judges and audience will vote for their favourite bad hypothesis, and the winner will be officially granted the title of **super cool**!
-
-
-### Participate
-We'd love to have you present your bad hypothesis! You can either present one of the example hypotheses, or even better, come up with your own.
-Just fill out [this Google form](https://docs.google.com/forms/d/14SDaYf-RpLpaDHPIgELCYekV37rX0x-XGpviSucfdbA/viewform?edit_requested=true) --- we can only select 10 hypotheses to be presented at our social due to time constraint, but everyone is welcomed to participate the social!
