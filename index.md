@@ -25,4 +25,4 @@ Non-machine learning hypotheses are also welcomed! For instance:
 * Mice in New York steal pizza because new york doesn’t want tourists
 
 ### The contest & Prize
-This social is organised by Elise van der Pol, Karen Ullrich and Yuge (Jimmy) Shi. They will be judges to the contest and offer their completely fair and unbiased opinions based on the scientific facts your present. Once all presentations are finished, judges and audience will vote for their favourite bad hypothesis, and the winner will be officially granted the title of **super cool**!
+This social is organised by [Elise van der Pol](https://www.elisevanderpol.nl/), [Karen Ullrich](https://karenullrich.info/) and [Yuge (Jimmy) Shi](https://yugeten.github.io/). They will be judges to the contest and offer their completely fair and unbiased opinions based on the scientific facts your present. Once all presentations are finished, judges and audience will vote for their favourite bad hypothesis, and the winner will be officially granted the title of **super cool**!
