@@ -22,7 +22,7 @@ Non-machine learning hypotheses are also welcomed! For instance:
 * Everybody always needs duck tape because there’s a lot that needs to be fixed in academia
 
 ### The contest & Prize
-This social is organised by Elise van der Pol, Karen Ullrich and Yuge (Jimmy) Shi. They will be judges to the contest and offer their completely fair and unbiased opinions based on the scientific facts your present. Once all presentations are finished, judges and audience will vote for their favourite bad hypothesis, and the winner will be officially granted the title of *super cool*!
+This social is organised by Elise van der Pol, Karen Ullrich and Yuge (Jimmy) Shi. They will be judges to the contest and offer their completely fair and unbiased opinions based on the scientific facts your present. Once all presentations are finished, judges and audience will vote for their favourite bad hypothesis, and the winner will be officially granted the title of **super cool**!
 
 
 ### Participate
