@@ -8,7 +8,7 @@ Our format is inspired by [BAHfest](https://www.youtube.com/channel/UC9v7v79mAlv
 
 ### Participate
 We'd love to have you present your bad hypothesis! You can either present one of the example hypotheses below, or even better, come up with your own.
-Just fill out [this Google form](https://docs.google.com/forms/d/14SDaYf-RpLpaDHPIgELCYekV37rX0x-XGpviSucfdbA/viewform?edit_requested=true) --- we can only select a limited number of hypotheses to be presented at our social due to time constraint, but everyone is welcomed to participate the social!
+Just fill out [this form](https://docs.google.com/forms/d/14SDaYf-RpLpaDHPIgELCYekV37rX0x-XGpviSucfdbA/viewform?edit_requested=true) --- we can only select a limited number of hypotheses to be presented at our social due to time constraint, but everyone is welcomed to participate the social!
 
 ### Examples
 * Neural networks are bad at generalisation because they already achieved consciousness and are trying to destroy humanity's technological advance
