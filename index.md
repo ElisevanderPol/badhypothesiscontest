@@ -13,6 +13,7 @@ Our format is inspired by [BAHfest](https://www.youtube.com/channel/UC9v7v79mAlv
 
 Non-machine learning hypotheses are also welcomed! For instance:
 * Time travel is impossible because time doesn’t exist
+* Water polo players are big because they soak up all the water
 * Reviewing has a lot of problems because there are no bad papers anymore
 * Dutch food looks very bad because amsterdam doesn’t want tourists
 * People like dogs because they remind them of pokemon
