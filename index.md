@@ -5,6 +5,8 @@ We provide a list of hypotheses to choose from below, however everyone is welcom
 
 Our format is inspired by [BAHfest](https://www.youtube.com/channel/UC9v7v79mAlvKCrjrJvj-Fww).
 
+### Social
+The social will take place Thu 6 May 6 p.m. CEST — 8 p.m. CEST and can be accessed [here (ICLR registration required)](https://iclr.cc/virtual/2021/social/4420).
 
 ### Participate
 We'd love to have you present your bad hypothesis! You can either present one of the example hypotheses below, or even better, come up with your own.
